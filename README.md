@@ -154,12 +154,12 @@ Full-stack developer focused on **modern TypeScript/React apps**, **Web3 dApps**
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MedNewton&show_icons=true&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=MedNewton&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" 
     alt="GitHub stats" 
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedNewton&layout=compact&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedNewton&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" 
     alt="Top languages" 
   />
 
