@@ -39,8 +39,11 @@ Full-stack developer focused on **modern TypeScript/React apps**, **Web3 dApps**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,11 +59,16 @@ Full-stack developer focused on **modern TypeScript/React apps**, **Web3 dApps**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-0052CC?style=for-the-badge&logo=apache&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 
 ### Web3 & Blockchain
 
 ![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js-253858?style=for-the-badge&logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-363FF9?style=for-the-badge&logo=alchemy&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -84,8 +92,14 @@ Full-stack developer focused on **modern TypeScript/React apps**, **Web3 dApps**
 
 ## 🧠 AI & Agentic Systems
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-07B0FF?style=for-the-badge&logo=livekit&logoColor=white)
+
 - Design and implementation of **AI agents** and **multi-agent systems**
 - Building **MCP (Model Context Protocol) servers and clients** to connect tools, APIs, and external systems to LLMs
+- **Multi-provider AI orchestration** with workflows, RAG pipelines, and cost analytics
+- Building **AI-powered SaaS products** — business plan generation, website generation, AI chat assistants
 - Integrating agent workflows into **Next.js** and **Node.js** apps for automation, data processing and decision support
 
 ---
@@ -120,6 +134,18 @@ Full-stack developer focused on **modern TypeScript/React apps**, **Web3 dApps**
 
 9. **Artrise Marketplace** – NFT marketplace (solo full-stack)  
    Designed and implemented marketplace for artists using **Firebase (Firestore, Realtime DB, Storage)** and smart contracts with gasless minting, meta-transactions and NFT auctions.
+
+10. **Urano dApp** – Tokenized RWA ecosystem dApp  
+    Full Web3 application with **11 smart contracts** on Ethereum Sepolia: ERC-20 token with staking & veToken governance, uShare fractional RWA marketplace, KYC/AML via Persona, vesting, presale, and an AI assistant. Built with **React, Vite, Thirdweb SDK, Viem, TanStack Query, Tailwind CSS** and **Vercel serverless + Supabase** backend.
+
+11. **Connections-AI** – Social event discovery & ticketing mobile app  
+    Full-stack **React Native/Expo** app (50 screens) for discovering nearby events on a map, purchasing tickets via **Stripe**, and creating/managing events as a creator. Features QR check-in, email invitations via **Resend**, **Firebase Realtime Database**, **Better Auth** with email OTP & social sign-in, and i18n (EN/IT).
+
+12. **SiteLab** – AI-powered website generation platform  
+    **pnpm monorepo** with two **Next.js 16** apps (client questionnaire + admin backoffice) and three shared packages. Multi-provider AI orchestration (**Vercel AI Gateway + V0 SDK**) with RAG pipelines, multi-tenant architecture, **Supabase PostgreSQL + pgvector**, 26 database tables, and real-time generation monitoring. Built with **TypeScript, Radix UI, Shadcn/ui, Tailwind CSS**.
+
+13. **Silicon Plan** – AI-powered business planning SaaS  
+    Full-featured platform with **Next.js 15, TypeScript, React 19** featuring a business plan editor (25+ components, drag-and-drop via dnd-kit), 6 canvas model templates, pitch deck builder, financial projections with 6 valuation methods, and a consultant marketplace with **LiveKit** video meetings. AI integration via **OpenAI gpt-4o**, auth via **Clerk**, multi-format export (PDF, DOCX, PPTX, Excel), and i18n (EN/IT).
 
 ---
 
